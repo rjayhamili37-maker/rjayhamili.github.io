@@ -1,3 +1,24 @@
+:root {
+  --gold: #d7a928;
+  --gold-light: #f1cf62;
+  --gold-dark: #9c7611;
+
+  --black: #080808;
+  --ink: #151515;
+
+  --muted: #707070;
+
+  --paper: #f7f4ec;
+  --card: #ffffff;
+
+  --line: #e6dfcd;
+
+  --header: rgba(247,244,236,.88);
+
+  --shadow:
+    0 20px 60px rgba(0,0,0,.10);
+}
+
 .title {
   color: blue;
   font-size: 40px;
